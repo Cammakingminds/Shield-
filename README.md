@@ -1,4 +1,4 @@
-# 3D Spherical Energy Shield
+# threeJS energy shield
 
 ![Shield Example](https://raw.githubusercontent.com/Cammakingminds/Shield-/refs/heads/main/YouCut_20260426_150837087.gif)
 
