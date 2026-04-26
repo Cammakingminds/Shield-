@@ -1,6 +1,6 @@
 # 3D Spherical Energy Shield
 
-![Shield Example](Shield/YouCut_20260426_150837087.gif)
+![Shield Example](Shield-/YouCut_20260426_150837087.gif)
 
 An interactive, procedural 3D energy shield simulation. The lattice dynamically reacts to touch, taking localized structural damage, physically breaching, and mathematically healing itself over time.
 
